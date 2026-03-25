@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>📊 Visitor Count</b> <br>
+  <b>Visitor Count</b> <br>
   <img src="https://profile-counter.deno.dev/WaiHlyanMinThein17/count.svg" alt="Visitor Count" />
   <br>
   <img src="./download.gif" width="450" />
