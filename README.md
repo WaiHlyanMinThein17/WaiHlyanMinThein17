@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <b>📊 Visitor Count</b> <br>
   <img src="https://profile-counter.deno.dev/WaiHlyanMinThein17/count.svg" alt="Visitor Count" />
   <br>
   <img src="./download.gif" width="450" />
@@ -10,7 +11,7 @@
 
 <h3 align="center">A Computer Science student passionate about software engineering, algorithms, and building scalable applications.</h3>
 
-- 🌱 I’m currently learning **[Data Structures & Algorithms](https://github.com/WaiHlyanMinThein17)**
+- 🌱 I’m currently learning **[Artificial Intelligence & Data Science](https://github.com/WaiHlyanMinThein17)**
 - 💬 Ask me about **Java, Python, or CS Fundamentals**
 - 📫 Reach me via the links below!
 
