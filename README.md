@@ -43,18 +43,11 @@
 
 <hr>
 
-## ⚡️ Stats
-
-<div align="center">
-
-<img width="390" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WaiHlyanMinThein17&show_icons=true&theme=transparent&count_private=true" />
-
-<img width="390" src="https://streak-stats.demolab.com?user=WaiHlyanMinThein17&theme=transparent" />
-
-<br/>
-
-<img width="325" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=WaiHlyanMinThein17&layout=donut&theme=transparent&count_private=true&langs_count=8" />
-
+## ⚡️ Stats 
+<br> 
+<div align="center"> <img width="390" src="https://github-readme-stats.vercel.app/api?username=WaiHlyanMinThein17&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="WaiHlyanMinThein17's GitHub Stats" /> 
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=WaiHlyanMinThein17&theme=transparent&count_private=true&border_radius=10&locale=en" alt="WaiHlyanMinThein17's Streak" /> <br> 
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=WaiHlyanMinThein17&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="WaiHlyanMinThein17's Most Used Languages" /> 
 </div>
 
 <hr>
